@@ -1,0 +1,26 @@
+##################################################
+# Syntax Coloring Map For ESP32 InfluxDB library
+##################################################
+
+##################################################
+# Datatypes (KEYWORD1)
+##################################################
+
+InfluxDB    KEYWORD1
+influxMeasurement   KEYWORD1
+HTTP_RESPONSE  KEYWORD1
+URLEncode   KEYWORD1
+
+##################################################
+# Methods and Functions (KEYWORD2)
+##################################################
+
+empty   KEYWORD2
+addField    KEYWORD2
+addTag    KEYWORD2
+addTimeStamp    KEYWORD2
+addTimeStamp_ms   KEYWORD2
+postString    KEYWORD2
+httpWrite   KEYWORD2
+httpResponse    KEYWORD2
+udpWrite    KEYWORD2
