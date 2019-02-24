@@ -5,9 +5,9 @@ sent via HTTP/UDP to a central InfluxDB instance.
 
 # Using this Library
 
-1. Use this [LINK](https://gitlab.ips.biba.uni-bremen.de/usg/lincoln-node/-/archive/v1.0.0/lincoln-node-v1.0.0.zip) to download the `.zip` file and extract the contents to `<user>\Documents\Arduino\libraries` folder.
+1. Goto [Tags](https://gitlab.ips.biba.uni-bremen.de/usg/lincoln-node/tags) to download the latest `.zip` file and extract the contents to `<user>\Documents\Arduino\libraries` folder.
 
-2. Rename to folder `lincoln-node-v1.0.0` to `UMG_Node`.
+2. Rename to folder `lincoln-node-v1.2.0` to `UMG_Node`.
 
 3. Restart your Arduino IDE and use `#include <UMG_Node.h>` in your code block.
 
